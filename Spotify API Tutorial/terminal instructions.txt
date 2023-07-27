@@ -1,0 +1,4 @@
+# loading environment variables (aka CLIENT_ID and CLIENT_SECRET)
+pip3 install python-dontenv
+# request module
+pip3 install requests
