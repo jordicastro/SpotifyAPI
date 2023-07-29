@@ -1,6 +1,25 @@
-# SpotifyAPI 
-utilizes Spotify's API to retrieve the top 10 songs of a specified artist. (client credential)
-  * creating a menu with multiple functions (get albums, related artists)coming soon.
-  * user credential (recommended tracks based on user's top tracks, playback controls, add/remove songs to a playlist) also coming soon.
-follow along: https://www.youtube.com/watch?v=WAmEZBEeNmg&ab_channel=Linode
-find relevent instructions in the terminal and spotify .txt files.
+# 🎵 SpotifyAPI 🎵
+
+**Utilizes Spotify's API to perform a variety of functions without requiring any user authorization scope (client credential).**
+
+  * Created a menu with the following functionalities:
+      1. View an artist's top tracks
+      2. View an artist's albums
+      3. View an album's tracks
+      4. View related artists
+      5. View new releases
+      6. View information on a track
+      0. Exit
+#
+<details>
+<summary><h3>More info</h3></summary>
+ <li> This project utilizes Spotify's Application Programming Interface and post/get requests to get authorization to retrieve important data from Spotify's API system. </li>
+<li> Follow along
+<a href = "https://www.youtube.com/watch?v=WAmEZBEeNmg&ab_channel=Linode" target = "_blank"> here </a> </li>
+<li>Find relevent instructions in the terminal and spotify .txt files.</li>
+
+
+
+## What's next?
+  * User credential (recommended tracks based on user's top tracks, playback controls, add/remove songs to a playlist, create a playlist) coming soon.
+
