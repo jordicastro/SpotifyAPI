@@ -21,5 +21,5 @@
 
 
 ## What's next?
-  * User credential (recommended tracks based on user's top tracks, playback controls, add/remove songs to a playlist, create a playlist) coming soon.
+  * implementing user credential (recommended tracks based on user's top tracks, playback controls, add/remove songs to a playlist, create a playlist) coming soon.
 
