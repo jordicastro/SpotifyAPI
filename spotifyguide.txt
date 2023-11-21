@@ -1,8 +1,0 @@
-#follow along:
-https://www.youtube.com/watch?v=WAmEZBEeNmg&ab_channel=Linode 
-
-# Spotify for devlopers -> Dashboard -> Create App ... Settings -> Client ID "..." && View Client Secret "..."
-https://developer.spotify.com/ 
-
-# Client Credientials Flow
-https://developer.spotify.com/documentation/web-api/tutorials/client-credentials-flow
